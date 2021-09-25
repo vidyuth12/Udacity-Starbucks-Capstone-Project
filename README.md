@@ -29,3 +29,7 @@ The data set was provided by Udacity, which has partnered with Starbucks for thi
 # Credits:
 I have completed the project under the guidance of Udacity, under the Nanodegree program for data scientist. Udacity has partnered with Starbucks for this project, whose data is used for this project. 
 Link to their website: https://www.udacity.com/
+
+I have published a written version for this project on medium. Link:
+https://sridharvidyuth-18-ce.medium.com/5df5e3accb38
+
